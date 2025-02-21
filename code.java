@@ -12,6 +12,7 @@ public class code {
         System.out.println("Michael");
         Random random = new Random();
         System.out.println("Random Number: " + random.nextInt(100));
+        System.out.println("Welcome to CS 490.");
     }
   
 }
